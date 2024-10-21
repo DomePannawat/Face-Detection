@@ -28,3 +28,6 @@ To install the required packages, run the following command in your terminal:
 pip install mediapipe
 ```
 After that you can run the code.
+
+This is a sample image of my project work
+https://drive.google.com/file/d/1D_sjQ3BjSVu9sZFWcpKgmIS__JJVYw6p/view?usp=sharing
