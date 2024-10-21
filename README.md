@@ -26,5 +26,5 @@ To install the required packages, run the following command in your terminal:
 
 ```bash
 pip install mediapipe
-
+```
 After that you can run the code.
