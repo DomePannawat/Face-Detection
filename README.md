@@ -2,7 +2,7 @@ Face Detection Application
 
 Overview
 
-The Face Detection Application is a Python-based program that utilizes OpenCV and Mediapipe libraries for real-time face detection. This application provides a user-friendly interface through Tkinter, enabling users to start and stop the camera feed and detect faces efficiently. Detected frames can also be saved in a designated directory for further analysis.
+The Face Detection Application is a Python-based program that utilizes OpenCV and Mediapipe libraries for real-time face detection. This application provides a user-friendly interface through Tkinter, enabling users to start and stop the camera feed and detect faces efficiently. 
 
 Features
 
