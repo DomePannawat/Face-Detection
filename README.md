@@ -30,4 +30,4 @@ pip install mediapipe
 After that you can run the code.
 
 This is a sample image of my project work
-https://drive.google.com/file/d/1D_sjQ3BjSVu9sZFWcpKgmIS__JJVYw6p/view?usp=sharing
+https://drive.google.com/file/d/1EaOhzpcsY6T3rrxrPHlgW9ZLk71bMm7M/view?usp=sharing
