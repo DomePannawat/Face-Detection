@@ -15,7 +15,7 @@ Requirements
 
 Before running the application, ensure that you have the following prerequisites:
 
-- Python 3.x
+- Python 3.10
 - OpenCV
 - Mediapipe
 - Tkinter (comes pre-installed with standard Python installations)
